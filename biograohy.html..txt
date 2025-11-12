@@ -1,0 +1,21 @@
+<HTML>
+<BODY bgcolour= "#FFFFOO">
+<P>
+
+<P>Name                   : Nishal Rijal</P>
+<P>Date of Birth     : 2068/05/16.<P/>
+<P>Father Name    : Narayan Bahadur Rijal<P>
+<p>Mother Name  : Niru Rijal</P>
+<P>Gender               : Male</P>
+<P>Nationality       : Nepalesh</P>
+<P>Address             : Bharatpur.16 Tikaldhara Chowk</P>
+<P>contact No.       : 9804256495</P>
+<BR>
+<A href="homepage.html">
+<IMG SRC="photo.jpeg", width=200, Height=200,
+Title="Return to home page"> </A>
+<P> Click on Photo to Return to Home Page</P>
+</Body>
+</HTML>
+
+
